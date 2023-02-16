@@ -5,11 +5,11 @@ Proje 3
 
 # ÇÖZÜM
 
-    Root: 6'dır.
-    Adım 1: 6'nın solunda 4, sağında 8 bulunur. 
-    Adım 2: 4'ün solunda 2, sağında 5 bulunur  --  8'in solunda 7, sağında 9 bulunur. 
-    Adım 3: 2'nin solunda 1, sağında 3 bulunur. 
-    Adım 4: 1'in solunda 0 bulunur. 
+Root: 6'dır.
+Adım 1: 6'nın solunda 4, sağında 8 bulunur. 
+Adım 2: 4'ün solunda 2, sağında 5 bulunur  --  8'in solunda 7, sağında 9 bulunur. 
+Adım 3: 2'nin solunda 1, sağında 3 bulunur. 
+Adım 4: 1'in solunda 0 bulunur. 
 
 
             6
@@ -22,7 +22,6 @@ Proje 3
     /
    0
 
-***
 
 
    
